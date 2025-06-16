@@ -1,98 +1,37 @@
-[
   {
-    "id": 1,
-    "name": "typicode",
-    "email": "typicode@example.com",
-    "posts": [
-      {
-        "id": 1,
-        "title": "Post 1"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
-      },
-      {
-        "id": 6,
-        "title": "Post 6: Guía para principiantes"
-      }
-    ],
-    "comments": [
-      {
-        "id": 3,
-        "body": "¡Qué buen post!",
-        "postId": 2
-      },
-      {
-        "id": 6,
-        "body": "Muy útil, especialmente para los nuevos en el tema.",
-        "postId": 4
-      },
-      {
-        "id": 9,
-        "body": "Me ha servido de mucho, ¡gracias!",
-        "postId": 4
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [{
+    "name": "Queco 1"
   },
   {
-    "id": 2,
-    "name": "Jane Doe",
-    "email": "jane.doe@example.com",
-    "posts": [
-      {
-        "id": 2,
-        "title": "Post 2"
-      },
-      {
-        "id": 5,
-        "title": "Post 5: Últimas noticias de tecnología"
-      }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 5,
-        "body": "Gracias por la información.",
-        "postId": 3
-      },
-      {
-        "id": 8,
-        "body": "Esperando la parte 2 de esta guía.",
-        "postId": 6
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "John Smith",
-    "email": "john.smith@example.com",
-    "posts": [
-      {
-        "id": 4,
-        "title": "Post 4: Consejos de desarrollo"
-      }
-    ],
-    "comments": [
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 4,
-        "body": "No estoy de acuerdo con el punto 3.",
-        "postId": 2
-      },
-      {
-        "id": 7,
-        "body": "Excelente resumen de las noticias.",
-        "postId": 5
-      }
-    ]
+    "name": "Queco 2"
   }
-]
+ ]
+}
+
+
