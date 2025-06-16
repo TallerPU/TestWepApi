@@ -2,29 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "titulo": "Hola"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "titulo": "Chau"
-    }
-    ,
+      "title": "Post 2"
+    },
     {
       "id": 3,
-      "titulo": "Chau1"
-    }
-    ,
-    {
-      "id": 4,
-      "titulo": "Chau2"
-    }
-    ,
-    {
-      "id": 5,
-      "titulo": "Chau3"
+      "title": "Post 3"
     }
   ],
-  "perfil": {
-    "nombre": "typicode"
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
