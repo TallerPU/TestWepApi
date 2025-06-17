@@ -1,20 +1,23 @@
 {
- "actor":
+ "Profesores":
 [
  {
  "id":"01",
- "name": "Tom",
- "lastname": "Hanks"
+ "nombre": "Javier",
+ "apellido": "Graña",
+ "cargo": "Titular"
  },
  {
  "id":"02",
- "name": "Nick",
- "lastname": "Thameson"
+ "nombre": "Sergio",
+ "apellido": "Guardia",
+ "cargo": "JTP"
  },
  {
  "id":"03",
- "name": "Nick",
- "lastname": "Thameson"
+ "nombre": "Benjamin",
+ "apellido": "Cortes",
+ "cargo": "ADJ"
  }
  ]
 }
