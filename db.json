@@ -1,37 +1,37 @@
-  {
+{
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Guía para un fin de semana en Tafí del Valle"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Los mejores lugares para comer empanadas en San Miguel de Tucumán"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "¿Qué hacer en San Javier? El Cristo Bendicente y más"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "¡Excelente guía! Justo lo que necesitaba para planificar mi viaje. ¿Recomiendas alguna época del año en especial para visitar?",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "Muy buena información. Agregaría que no se pueden perder las empanadas de 'El Puesto' en la entrada. ¡Son las mejores!",
       "postId": 1
     }
   ],
-  "profile": [{
-    "name": "Queco 1"
-  },
-  {
-    "name": "Queco 2"
-  }
- ]
+  "profile": [
+    {
+      "name": "Queco"
+    },
+    {
+      "name": "Juan"
+    }
+  ]
 }
-
 
